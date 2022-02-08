@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\SchoolApi\\Api.csproj": {}
+    "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\SchoolApi\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\Domain\\Domain.csproj": {
+    "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\afsana.mammadova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Narminya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\afsana.mammadova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Narminya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,17 +64,17 @@
         }
       }
     },
-    "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\Repository\\Repository.csproj": {
+    "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\afsana.mammadova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\Narminya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\afsana.mammadova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Narminya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\Domain\\Domain.csproj"
+              "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\Domain\\Domain.csproj"
               }
             }
           }
@@ -136,17 +136,17 @@
         }
       }
     },
-    "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\SchoolApi\\Api.csproj": {
+    "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\SchoolApi\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\SchoolApi\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\SchoolApi\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\SchoolApi\\Api.csproj",
-        "packagesPath": "C:\\Users\\afsana.mammadova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\SchoolApi\\obj\\",
+        "projectPath": "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\SchoolApi\\Api.csproj",
+        "packagesPath": "C:\\Users\\Narminya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\SchoolApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\afsana.mammadova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Narminya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,11 +160,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\Domain\\Domain.csproj"
+              "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\afsana.mammadova\\source\\repos\\WebApi\\Repository\\Repository.csproj"
+              "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\Narminya\\Desktop\\WebApiIntro\\WebApi\\Repository\\Repository.csproj"
               }
             }
           }
